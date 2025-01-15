@@ -299,6 +299,7 @@ img{
     color: #4d5ae5;
     margin-right: 76px;
     padding: 24px 0;
+    margin-bottom: 16px;
 }
 .foot-logo-end {
     font-weight: 700;
@@ -308,6 +309,7 @@ img{
     text-transform: uppercase;
     color: #f4f4fd;
     padding: 24px 0;
+    margin-bottom: 16px;
    }
 
    .footer-text{
