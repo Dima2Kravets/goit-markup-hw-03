@@ -60,6 +60,7 @@ img{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
+    padding: 24px 0;
 }
 .nav-link{
     font-weight: 500;
@@ -158,6 +159,7 @@ img{
 }
 
             /*Section-Features*/
+
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -304,6 +306,7 @@ img{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
+    padding: 24px 0;
    }
 
    .footer-text{
